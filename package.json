@@ -1,0 +1,11 @@
+{
+  "name": "ics-to-csv",
+  "version": "0.0.1",
+  "description": "Calendar Analyzer",
+  "main": "index.js",
+  "author": "gerbus <christopher.x.gerber@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-ical": "^0.15.1"
+  }
+}
